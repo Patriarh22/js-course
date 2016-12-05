@@ -1,0 +1,51 @@
+body {
+  background-color: #fff;
+}
+
+.wrapper {
+  font-family: 'Merriweather', serif;
+  margin: 0 100px;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+
+.figures {
+  float: right;
+  overflow: hidden;
+}
+
+.circle {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  float: right;
+}
+
+#black-figure {
+  background: black;
+  margin-left: 20px;
+}
+
+#gray-figure {
+  background: gray;
+}
+
+.main-content {
+  float: left;
+}
+
+.header {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.header p {
+  display: inline-block;
+  font-size: 22px;
+  padding-bottom: 3px;
+  border-bottom: 2px solid blue;
+}
+
+.content {
+  margin-top: 50px;
+}
